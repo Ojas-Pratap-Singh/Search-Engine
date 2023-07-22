@@ -1,13 +1,24 @@
 # Search Engine Project
 
+
+
+
+
+
 This project is an implementation of a simple search engine with term frequency-based web crawling using Java and various web technologies. The search engine allows users to search for information and retrieves the top 30 results according to their query. Additionally, it displays the search history of previous queries.
 
 ## Features
-1. **Web Application Interface:** The project will include a web application with a user-friendly search bar and a search button.
+1. **Web Application Interface:** The project will include a web application with a user-friendly search bar , a search button and History button. 
+
+
+    ![se11](https://github.com/Ojas-Pratap-Singh/Search-Engine/assets/128834924/d89f95e4-dc78-4db4-9f02-34f5fbd14c81)
 
 2. **Search Functionality:** Users can enter their search query in the search bar and click the search button to retrieve the top 30 relevant results from the database.
+    ![se1](https://github.com/Ojas-Pratap-Singh/Search-Engine/assets/128834924/239e7fae-328f-4a2d-985b-bfa2ae5c40ad)
 
 3. **Search History:** The search engine stores and displays the history of previous search queries made by users, allowing them to easily revisit past searches.
+    ![se22](https://github.com/Ojas-Pratap-Singh/Search-Engine/assets/128834924/472dab75-f2bd-4d2d-a5ba-aa0b68338281)
+
 
 ## Web Application Design
 
